@@ -88,7 +88,7 @@ ORDER BY Jenis_Relasi;
 
 Evaluasi dilakukan dengan membandingkan item rekomendasi hasil prediksi ($k=5$) terhadap interaksi aktual pengguna pada dataset pengujian (Periode `P2`):
 
-| Metrik Evaluasi | Nilai | Deskripsi |
+| Metrik Evaluasi | Deskripsi |
 | :--- | :---: | :--- |
 | **Hit@05**  | Mengukur apakah minimal ada 1 item relevan yang berhasil direkomendasikan dalam Top-5. |
 | **NDCG@05**  | Mengukur kualitas urutan/peringkat item rekomendasi (*Normalized Discounted Cumulative Gain*). |
