@@ -90,8 +90,8 @@ Evaluasi dilakukan dengan membandingkan item rekomendasi hasil prediksi ($k=5$) 
 
 | Metrik Evaluasi | Nilai | Deskripsi |
 | :--- | :---: | :--- |
-| **Hit@05** | *[Isi Nilai]* | Mengukur apakah minimal ada 1 item relevan yang berhasil direkomendasikan dalam Top-5. |
-| **NDCG@05** | *[Isi Nilai]* | Mengukur kualitas urutan/peringkat item rekomendasi (*Normalized Discounted Cumulative Gain*). |
+| **Hit@05**  | Mengukur apakah minimal ada 1 item relevan yang berhasil direkomendasikan dalam Top-5. |
+| **NDCG@05**  | Mengukur kualitas urutan/peringkat item rekomendasi (*Normalized Discounted Cumulative Gain*). |
 
 ---
 
@@ -117,5 +117,5 @@ pip install -r requirements.txt
 
 ## 👤 Penulis
 * **Nama:** Muhammad Geralldo Agatha Saputra
-* **NIM:** *[Isi NIM Anda]*
-* **Program Studi / Institusi:** Universitas Negeri Surabaya (UNESA)
+* **NIM:** *24031554091*
+* **Program Studi / Institusi:** S1 Sains Data / Universitas Negeri Surabaya (UNESA)
